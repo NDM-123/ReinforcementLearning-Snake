@@ -1,1 +1,1 @@
-# ReinforcmentLearnini-Snake
+# ReinforcementLearning-Snake
