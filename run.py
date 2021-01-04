@@ -166,4 +166,4 @@ print("test")
 print(b)
 #  alarm sound
 speaker = wincl.Dispatch("SAPI.SpVoice")
-speaker.Speak("Training has finished, Uriell i want to get a hickeey from hadar. will you help me?")
+speaker.Speak("Training and test has finished")
